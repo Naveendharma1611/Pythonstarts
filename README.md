@@ -1,2 +1,2 @@
 # Pythonstarts
-From Today we have to post a python work on 
+From Today we have to post a python work on GITHUB
